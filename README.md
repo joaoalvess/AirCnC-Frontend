@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="photo" src="./src/assets/logo oti.png" width="300" height="200" />
+    <img alt="photo" src="./src/assets/logo.svg" width="300" height="200" />
     <br>
 </h1>
 
