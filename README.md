@@ -41,14 +41,11 @@
 
 This project was developed with the following technologies:
 
--  [Typescript](https://www.typescriptlang.org)
--  [Expo](https://expo.io)
+-  [JavaScript](https://www.typescriptlang.org)
 -  [React](https://pt-br.reactjs.org)
--  [React Native](https://reactnative.dev)
--  [React Navigation](https://reactnavigation.org)
--  [Styled Components](https://styled-components.com)
+-  [React Router Dom](https://reactnavigation.org)
 -  [Axios](https://github.com/axios/axios)
--  [React Native Maps](https://github.com/react-native-community/react-native-maps)
+-  [Handlebars](https://handlebarsjs.com/)
 -  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
 ## :information_source: How To Use
