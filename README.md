@@ -1,10 +1,11 @@
 <h1 align="center">
     <img alt="photo" src="./src/assets/logo.svg" width="300" height="200" />
     <br>
+    AirCnC
 </h1>
 
 <h4 align="center">
-  Locate the ambev bar closest to you and book your reservation.
+  AirBnB clone for developers find spot for development
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/joaoalvess/AirCnC-Frontend.svg">
