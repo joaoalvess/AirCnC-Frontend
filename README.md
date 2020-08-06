@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-  AirBnB clone for developers find spot for development
+    Aircnc (Coffee & Code) to booking spots for developers using React, React Native, Node.js, and more.
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/joaoalvess/AirCnC-Frontend.svg">
