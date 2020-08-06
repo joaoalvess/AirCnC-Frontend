@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="photo" src="./src/assets/logo.svg" width="300" height="200" />
+    <img alt="photo" src="https://raw.githubusercontent.com/daltonmenezes/aircnc/master/mobile/src/assets/logo%403x.png" width="300" height="200" />
     <br>
     AirCnC
 </h1>
